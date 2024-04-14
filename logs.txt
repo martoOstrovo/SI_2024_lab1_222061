@@ -1,0 +1,41 @@
+commit 200264f5504696ae5f8e2baec32b435a5259880a
+Author: Martin Grombanovski <martingrombanovski@yahoo.com>
+Date:   Sun Apr 14 20:57:42 2024 +0200
+
+     Call method makeBigStringFrom in main class
+
+commit 93591b5cddfbf1f7f933ddc6a978d24abd8e5a4a
+Author: Martin Grombanovski <martingrombanovski@yahoo.com>
+Date:   Sun Apr 14 20:50:29 2024 +0200
+
+    Fixed wrong condition in filterOddLengthStrings
+
+commit 734905c1661819d0c611546ed7246208193ce937
+Author: Martin Grombanovski <martingrombanovski@yahoo.com>
+Date:   Sun Apr 14 21:00:43 2024 +0200
+
+     Call method filterOddLengthStrings in main class
+
+commit 1c4c779a4de9736e873daeaea20a5d854d572076
+Author: Martin Grombanovski <martingrombanovski@yahoo.com>
+Date:   Sun Apr 14 20:42:36 2024 +0200
+
+    fixed method filterOddLengthStrings in main class
+
+commit d11d7d6121d59079d9adaf55fb76ccce348c1da7
+Author: Martin Grombanovski <martingrombanovski@yahoo.com>
+Date:   Sun Apr 14 20:40:01 2024 +0200
+
+    .
+
+commit 6574f37b411cc9ef3945fd6705f635c76883cce1
+Author: Martin Grombanovski <martingrombanovski@yahoo.com>
+Date:   Sun Apr 14 20:36:01 2024 +0200
+
+    added initial code
+
+commit 7c88c5bc14c6cf5a4aae7cc298cac7128f8275c5
+Author: Martin Grombanovski <martingrombanovski@yahoo.com>
+Date:   Sun Apr 14 20:14:01 2024 +0200
+
+      Initial commit
